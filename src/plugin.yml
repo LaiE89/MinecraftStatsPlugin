@@ -1,0 +1,9 @@
+name: PlayerCommands
+version: 1.0
+author: laie
+main: me.laie.playercommands.Main
+description: Player commands for the server.
+
+commands:
+  stats:
+    description: This gets the stats of an online player.
