@@ -1,14 +1,3 @@
-## Getting Started
+A plugin for Minecraft servers. Keeps track of players' wins, losses, kills, win rate, kill/death ratio etc. Other players can view these stats through commands.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Type in /stats <playerUsername> to get a player's stats in text format.
